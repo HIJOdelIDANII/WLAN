@@ -40,3 +40,7 @@ button.active {
   color: #4caf50; /* Change text color to green */
   border: 2px solid #4caf50; /* Add a green border */
 }
+.the-image{
+  display: block;
+  width:350px;
+}
